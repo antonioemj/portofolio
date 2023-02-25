@@ -1,0 +1,18 @@
+
+a{
+    margin-bottom: 10px;
+    padding: 0px; 
+    color: blue;
+}
+
+.button{
+    background-color: grey; 
+    color: rgb(238, 238, 238); 
+    border: 2px solid #696969;
+    transition-duration: 0.9s;
+}
+
+.button:hover {
+    background-color: #94939381; 
+    color: rgb(0, 0, 0);
+  }

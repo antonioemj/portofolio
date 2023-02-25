@@ -1,0 +1,21 @@
+.sectionQuatro{
+    font-family: cursive;
+    padding: 50px 0px;
+    background-color: gray;
+    color: aliceblue;
+}
+h4{
+    color: white;
+    font-size: 40px;
+    margin: 50px;
+}
+
+#imgConhecimentos{
+    margin: 10px;
+    padding: 100px;
+    height: auto;
+    width: auto;
+    box-shadow: 10px 10px black;
+    border-radius: 10px;
+    background-color: #3C3741;  
+}

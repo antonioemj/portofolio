@@ -18,5 +18,5 @@ class Site
     public function consulta()
     {
         require_once __DIR__ . '/../view/consultas/consulta.php';
-    }
+    }     
 }
